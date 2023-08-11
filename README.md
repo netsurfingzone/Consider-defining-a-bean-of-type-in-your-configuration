@@ -3,7 +3,7 @@ Consider defining a bean of type in your configuration
 
 See a detailed and depth tutorial here.
 
-https://www.netsurfingzone.com/jpa/consider-defining-a-bean-of-type-in-your-configuration/
+https://www.javatute.com/jpa/consider-defining-a-bean-of-type-in-your-configuration/
 
 
 Below points may helps to fix this error.
